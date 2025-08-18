@@ -1,4 +1,4 @@
-** NoorPortfolio - Android Developer Portfolio App**
+**NoorPortfolio - Android Developer Portfolio App**
 
 Welcome to **NoorPortfolio**, a sleek and modern Android portfolio application showcasing the skills, projects, and contact information of Hifza Noor, a passionate Android Developer.
 
