@@ -14,13 +14,13 @@ Welcome to **NoorPortfolio**, a sleek and modern Android portfolio application s
 
 ---
 
-** About**
+**About**
 
 NoorPortfolio is a fully functional Android application built using **Jetpack Compose** and **Kotlin**, designed to demonstrate Hifza Noor's expertise in mobile app development. The app features animated profile sections, tabbed navigation, skill progress bars, testimonials, and interactive contact options.
 
 ---
 
-** Features**
+**Features**
 
 - **Modern UI/UX:** Built with Jetpack Compose for a smooth and responsive user interface.
 - **Animated Profile Section:** Image carousel and animated text for engaging introduction.
@@ -50,7 +50,7 @@ NoorPortfolio is a fully functional Android application built using **Jetpack Co
    ```bash
    git clone https://github.com/yourusername/noorportfolio.git
 
- ** Usage
+ **Usage
 -Navigate thro**ugh the tabs to view projects, about info, and contact details.
 -Click on contact icons to send email, make calls, open location in maps, or visit social media profiles.
 -Enjoy smooth animations and interactive UI elements designed to highlight developer skills.
