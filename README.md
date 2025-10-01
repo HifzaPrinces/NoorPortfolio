@@ -50,6 +50,8 @@ NoorPortfolio is a fully functional Android application built using **Jetpack Co
    ```bash
    git clone https://github.com/yourusername/noorportfolio.git
 
+   https://www.dropbox.com/scl/fi/qmnwmxag3r4tsa7z7g0yu/app-release.apk?rlkey=le3l3focaz90lc8x70qkwfyxf&st=0lwnh8ch&dl=0
+
  **Usage
 -Navigate thro**ugh the tabs to view projects, about info, and contact details.
 -Click on contact icons to send email, make calls, open location in maps, or visit social media profiles.
